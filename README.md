@@ -29,7 +29,3 @@ The app allows users to create, complete, and delete tasks with persistent stora
 - **JavaScript (ES6+)**
 - **CSS3** – Custom, modern styling
 - **LocalStorage API**
-
----
-
-## 📂 Project Structu
