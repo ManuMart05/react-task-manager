@@ -7,7 +7,7 @@ The app allows users to create, complete, and delete tasks with persistent stora
 
 ## 🚀 Live Demo
 
-👉 _(Add your deployed Netlify / Vercel link here)_
+👉 https://manumart05.github.io/react-task-manager/
 
 ---
 
